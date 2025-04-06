@@ -1,4 +1,4 @@
-# main_repo
+# 독거노인 스마트케어 서비스 어플리케이션
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=37A0FF&height=300&section=header&text=개별연구&fontSize=90&fontColor=FFFFFF)
 
